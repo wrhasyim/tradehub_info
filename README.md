@@ -101,7 +101,7 @@ Seluruh paket VIP dirancang untuk memberikan akses tanpa batas ke seluruh ekosis
 | **Bandarmology & Foreign Flow Full Detail** | ✅ | ✅ | ✅ |
 | **Portfolio Risk Analytics & Backtesting** | ✅ | ✅ | ✅ |
 | **Notifikasi Telegram & Webhook Sync** | ✅ | ✅ | ✅ |
-| **Durasi Berlangganan** | **1 Bulan** | **3 Bulan** | **6 Bulan** |
+| **Durasi Berlangganan** | **1 Bulan** | **6 Bulan** | **12 Bulan** |
 
 ---
 
